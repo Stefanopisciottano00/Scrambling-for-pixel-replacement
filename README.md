@@ -11,6 +11,6 @@ The project is divided in this way:
 - Scrambling_mp4.py: this is the script to scramble video and add an hidden watermark for the operation of descrambling
 - Descrambling_mp4.py: this is the script to descramble video starting from scramble video, extracting the watermark
 
- [Explaination of the processs](./process/funzionamento.jpg)
+ [Explaination of the process](./process/funzionamento.jpg)
 
 For more informations contact me via e-mail : pisciottano.work@gmail.com
