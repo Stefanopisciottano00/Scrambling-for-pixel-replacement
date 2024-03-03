@@ -1,7 +1,7 @@
 # Scrambling-for-pixel-replacement
-this repository contains the material to perform pixel scrambling on the face region, allowing to increase the privacy of the filmed subjects 
+this repository contains the material to perform pixel scrambling on the face region, allowing to increase the privacy of the filmed subjects.
 
-the project is divided in this way
+The project is divided in this way:
 
 - descrambled_videos: this folder will contain the videos after the descrambling process.
 - scramble_videos:  this folder will contain the videos after the scrambling process.
@@ -12,3 +12,5 @@ the project is divided in this way
 - Descrambling_mp4.py: this is the script to descramble video starting from scramble video, extracting the watermark
 
  [Test Image](process/funzionamento.jpg)
+
+For more informations contact me via e-mail : pisciottano.work@gmail.com
